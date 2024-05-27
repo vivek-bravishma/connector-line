@@ -1,0 +1,15 @@
+// 1) accountID : MCTOTJ
+// 2) client ID : Client Secret = clientApp1 : idgP2WRZf3eHsPTdUkgdOQlXoxjaMJZZ
+// 3) ChannelProviderId : 4e287bdf-8c96-4eae-ac46-1ff091bcbec0
+// 4) integration name/integration ID : SECUSTOM / c082f77d-3ae2-4e4c-8126-65db09b33767
+
+{
+    "accountId": "MCTOTJ",
+    "client_id": "clientApp1",
+    "client_secret": "idgP2WRZf3eHsPTdUkgdOQlXoxjaMJZZ",
+    "channelProviderId": "4e287bdf-8c96-4eae-ac46-1ff091bcbec0",
+    "integrationId": "c082f77d-3ae2-4e4c-8126-65db09b33767",
+  
+    "integrationName": "SECUSTOM" // wtf
+  }
+  
